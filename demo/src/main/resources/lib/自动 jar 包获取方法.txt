@@ -1,11 +1,5 @@
 
-1、访问下面的连接地址:
+1、访问下面的链接地址:
 
-https://github.com/YouAreOnlyOne/SmartBookmark/tree/master/doc/PayJoin
-
-或者
-
-https://blog.csdn.net/u014374009/article/details/104323483
-
-2、通过扫描上面地址的二维码，输入5，备注邮箱，片刻之后就会收到完整源码jar包；如果不想动手自己运行调试的，只需要扫描下面的，输入20，备注邮箱，片刻之后就会收到源码+远程调试运行完成。
+https://github.com/YouAreOnlyOne/GeekTools/tree/master/TeamAndProduct
 
